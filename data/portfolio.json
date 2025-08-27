@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "id": "campanha-loja-x",
+      "title": "Campanha de Lançamento para a Loja X",
+      "image": "/ecommerce-campaign-modern.png",
+      "description": "Aumento de 35% no engajamento e 15% nas vendas",
+      "category": "vendas",
+      "createdAt": "2025-08-26T20:45:47.207Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "posts-redes-sociais",
+      "title": "Posts para Redes Sociais - Marca Y",
+      "image": "/consistent-social-media-branding.png",
+      "description": "Série de posts com identidade visual coesa",
+      "category": "vendas",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "banner-promocional",
+      "title": "Banner Promocional - Black Friday",
+      "image": "/black-friday-banner.png",
+      "description": "Campanha que gerou 40% mais cliques",
+      "category": "vendas",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "ciclo-agua",
+      "title": "Material Didático - Ciclo da Água",
+      "image": "/water-cycle-infographic-children.png",
+      "description": "Infográfico utilizado por 50+ professores",
+      "category": "educacionais",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "ebook-matematica",
+      "title": "E-book Educativo - Matemática Básica",
+      "image": "/placeholder-ixpp4.png",
+      "description": "Material para alunos do ensino fundamental",
+      "category": "educacionais",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "atividades-portugues",
+      "title": "Atividades de Português",
+      "image": "/portuguese-worksheet.png",
+      "description": "Conjunto de atividades lúdicas e educativas",
+      "category": "educacionais",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "identidade-visual",
+      "title": "Identidade Visual - Startup Tech",
+      "image": "/modern-tech-startup-brand.png",
+      "description": "Logo e materiais de marca completos",
+      "category": "outros",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "id": "apresentacao-corporativa",
+      "title": "Apresentação Corporativa",
+      "image": "/placeholder-jgt5f.png",
+      "description": "Template para apresentações executivas",
+      "category": "outros",
+      "createdAt": "2025-08-26T20:45:47.209Z",
+      "updatedAt": "2025-08-26T20:45:47.209Z"
+    },
+    {
+      "title": "gfdfgdgd",
+      "image": "https://drive.google.com/thumbnail?id=1cWxgE55KxxVk2yy15I7PrudxB4jyrXIh&sz=w600",
+      "description": "gfdfdgf",
+      "category": "vendas",
+      "id": "project-1756254233231",
+      "createdAt": "2025-08-27T00:23:53.231Z",
+      "updatedAt": "2025-08-27T00:23:53.231Z"
+    },
+    {
+      "title": "Teste Google Drive 2",
+      "image": "https://drive.google.com/thumbnail?id=1Mgxxc6JYbyebQJTTZne2vLetGJbezWjD&sz=w600",
+      "description": "Operadores são símbolos especiais que executam operações específicas em um, dois ou três operandos e, em seguida, retornam um resultado. Esta página organiza os operadores mais comuns em linguagens de programação.",
+      "category": "vendas",
+      "id": "project-1756257268790",
+      "createdAt": "2025-08-27T01:14:28.791Z",
+      "updatedAt": "2025-08-27T01:14:28.791Z"
+    },
+    {
+      "title": "Teste Google Drive 3",
+      "image": "https://drive.google.com/thumbnail?id=1QJ26O4e2UuLhDbDZ4tRgknYo-QOnghHb&sz=w600",
+      "description": "Operadores são símbolos especiais que executam operações específicas em um, dois ou três operandos e, em seguida, retornam um resultado. Esta página organiza os operadores mais comuns em linguagens de programação.",
+      "category": "vendas",
+      "id": "project-1756257346230",
+      "createdAt": "2025-08-27T01:15:46.230Z",
+      "updatedAt": "2025-08-27T01:15:46.230Z"
+    }
+  ],
+  "categories": {
+    "vendas": "Designs para Vendas",
+    "educacionais": "Artes Educacionais",
+    "outros": "Outros Projetos"
+  }
+}
